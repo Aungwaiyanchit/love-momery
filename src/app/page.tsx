@@ -8,7 +8,7 @@ export default function Home() {
       <Hero />
 
       <div className="mt-24 w-full">
-          <Memories />
+          {/* <Memories /> */}
       </div>
 
       <div className="mt-24 w-full mb-24">
