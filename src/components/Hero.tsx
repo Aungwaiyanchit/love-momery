@@ -67,7 +67,7 @@ export default function Hero() {
           
           <div>
             <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold text-pink-500 mb-4 tracking-wide font-[family-name:var(--font-pacifico)]">
-              Aung <span className="text-pink-300">&</span> Eaint
+              Aung <span className="text-pink-300">&</span> Kang Haerin
             </h1>
             <p className="text-lg sm:text-xl md:text-2xl text-pink-400/80 font-medium">
               walking together since 2026
